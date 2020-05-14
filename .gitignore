@@ -36,3 +36,16 @@ Route-Planning-Project
 *.exe
 *.out
 *.app
+test/test
+17_Override/override
+16_PolymorphismOverriding/poly
+15_Virtual/virtual
+21_TemplateDeduction/deduce
+20_Templates/templates
+19_MulipleInheritance/multi
+14_OperatorOverloading2/operator2
+13_OperatorOverloading/operator
+12_Friends/friends
+11_Composition/vectors
+11_Composition/composition
+22_ClassTemplate/templates
